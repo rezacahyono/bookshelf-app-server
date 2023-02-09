@@ -9,7 +9,7 @@
     "lint": "eslint ./src"
   },
   "keywords": [],
-  "author": "",
+  "author": "rezacahyono",
   "license": "ISC",
   "dependencies": {
     "@hapi/hapi": "^21.2.1",
